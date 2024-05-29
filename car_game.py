@@ -4,7 +4,6 @@ import random
 
 pygame.init()
 
-# create the window
 width = 500
 height = 500
 screen_size = (width, height)
