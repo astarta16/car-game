@@ -20,7 +20,6 @@ road_width = 300
 marker_width = 10
 marker_height = 50
 
-# lane coordinates
 left_lane = 150
 center_lane = 250
 right_lane = 350
