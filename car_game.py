@@ -25,7 +25,6 @@ center_lane = 250
 right_lane = 350
 lanes = [left_lane, center_lane, right_lane]
 
-# road and edge markers
 road = (100, 0, road_width, height)
 left_edge_marker = (95, 0, marker_width, height)
 right_edge_marker = (395, 0, marker_width, height)
