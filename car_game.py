@@ -16,7 +16,6 @@ red = (200, 0, 0)
 white = (255, 255, 255)
 yellow = (255, 232, 0)
 
-# road and marker sizes
 road_width = 300
 marker_width = 10
 marker_height = 50
