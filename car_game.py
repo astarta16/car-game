@@ -29,7 +29,6 @@ road = (100, 0, road_width, height)
 left_edge_marker = (95, 0, marker_width, height)
 right_edge_marker = (395, 0, marker_width, height)
 
-# for animating movement of the lane markers
 lane_marker_move_y = 0
 
 # player's starting coordinates
