@@ -34,7 +34,6 @@ lane_marker_move_y = 0
 player_x = 250
 player_y = 400
 
-# frame settings
 clock = pygame.time.Clock()
 fps = 120
 
