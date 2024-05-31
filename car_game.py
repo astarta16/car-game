@@ -37,7 +37,7 @@ player_y = 400
 clock = pygame.time.Clock()
 fps = 120
 
-# game settings
+
 gameover = False
 speed = 2
 score = 0
