@@ -31,7 +31,6 @@ right_edge_marker = (395, 0, marker_width, height)
 
 lane_marker_move_y = 0
 
-# player's starting coordinates
 player_x = 250
 player_y = 400
 
