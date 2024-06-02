@@ -61,7 +61,6 @@ class PlayerVehicle(Vehicle):
         image = pygame.image.load('images/car.png')
         super().__init__(image, x, y)
         
-# sprite groups
 player_group = pygame.sprite.Group()
 vehicle_group = pygame.sprite.Group()
 
