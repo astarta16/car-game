@@ -77,7 +77,6 @@ for image_filename in image_filenames:
 crash = pygame.image.load('images/crash.png')
 crash_rect = crash.get_rect()
 
-# game loop
 running = True
 while running:
     
