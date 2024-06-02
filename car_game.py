@@ -64,7 +64,6 @@ class PlayerVehicle(Vehicle):
 player_group = pygame.sprite.Group()
 vehicle_group = pygame.sprite.Group()
 
-# create the player's car
 player = PlayerVehicle(player_x, player_y)
 player_group.add(player)
 
