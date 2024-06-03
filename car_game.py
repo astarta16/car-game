@@ -73,7 +73,6 @@ for image_filename in image_filenames:
     image = pygame.image.load('images/' + image_filename)
     vehicle_images.append(image)
     
-# load the crash image
 crash = pygame.image.load('images/crash.png')
 crash_rect = crash.get_rect()
 
