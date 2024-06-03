@@ -85,8 +85,8 @@ while running:
         if event.type == QUIT:
             running = False
             
-        # move the player's car using the left/right arrow keys
-        if event.type == KEYDOWN:
+
+                if event.type == KEYDOWN:
             
             if event.key == K_LEFT and player.rect.center[0] > left_lane:
                 player.rect.x -= 100
