@@ -93,8 +93,8 @@ while running:
             elif event.key == K_RIGHT and player.rect.center[0] < right_lane:
                 player.rect.x += 100
                 
-            # check if there's a side swipe collision after changing lanes
-            for vehicle in vehicle_group:
+
+                        for vehicle in vehicle_group:
                 if pygame.sprite.collide_rect(player, vehicle):
                     
                     gameover = True
