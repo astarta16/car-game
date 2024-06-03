@@ -99,7 +99,7 @@ while running:
                     
                     gameover = True
                     
-                    # place the player's car next to other vehicle
+                   
                     # and determine where to position the crash image
                     if event.key == K_LEFT:
                         player.rect.left = vehicle.rect.right
