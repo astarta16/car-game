@@ -100,7 +100,6 @@ while running:
                     gameover = True
                     
                    
-                    # and determine where to position the crash image
                     if event.key == K_LEFT:
                         player.rect.left = vehicle.rect.right
                         crash_rect.center = [player.rect.left, (player.rect.center[1] + vehicle.rect.center[1]) / 2]
