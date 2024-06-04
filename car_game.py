@@ -108,7 +108,6 @@ while running:
                         crash_rect.center = [player.rect.right, (player.rect.center[1] + vehicle.rect.center[1]) / 2]
             
             
-    # draw the grass
     screen.fill(green)
     
     # draw the road
