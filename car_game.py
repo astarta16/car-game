@@ -110,7 +110,6 @@ while running:
             
     screen.fill(green)
     
-    # draw the road
     pygame.draw.rect(screen, gray, road)
     
     # draw the edge markers
