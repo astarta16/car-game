@@ -124,7 +124,6 @@ while running:
         pygame.draw.rect(screen, white, (left_lane + 45, y + lane_marker_move_y, marker_width, marker_height))
         pygame.draw.rect(screen, white, (center_lane + 45, y + lane_marker_move_y, marker_width, marker_height))
         
-    # draw the player's car
     player_group.draw(screen)
     
     # add a vehicle
