@@ -112,7 +112,7 @@ while running:
     
     pygame.draw.rect(screen, gray, road)
     
-    # draw the edge markers
+ 
     pygame.draw.rect(screen, yellow, left_edge_marker)
     pygame.draw.rect(screen, yellow, right_edge_marker)
     
